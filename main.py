@@ -7,7 +7,7 @@ import asyncio
 import os
 from keep_alive import keep_alive
 
-token = os.environ.get("MTUzNzQ0NjYzODI1ODIyOTMwOA.GxNBw_.8CaI19_oqJ3FOexdc0qm-ESf_2klWkX2URUlGk")
+token = os.environ.get("MMTUzNzQ0NjYzODI1ODIyOTMwOA.GxNBw_.8CaI19_oqJ3FOexdc0qm-ESf_2klWkX2URUlGk")
 
 
 SPAM_CHANNEL =  ["xxudo 1207"]
