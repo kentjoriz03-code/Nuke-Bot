@@ -7,11 +7,12 @@ import asyncio
 import os
 from keep_alive import keep_alive
 
-token = os.environ.get("Token")
+token = os.environ.get("MTUzNzQ0NjYzODI1ODIyOTMwOA.GxNBw_.8CaI19_oqJ3FOexdc0qm-ESf_2klWkX2URUlGk")
 
 
-SPAM_CHANNEL =  ["yt-AadyaExe"]
-SPAM_MESSAGE = ["@everyone Subscribe To AadyaExe @here"]
+SPAM_CHANNEL =  ["xxudo 1207"]
+SPAM_MESSAGE = ["# hi everyone - xudo @everyone 
+https://discord.gg/BFZKyWr7F"]
 
 client = commands.Bot(command_prefix="n!")
 
